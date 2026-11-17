@@ -1,0 +1,563 @@
+{
+  "title": "GİZLİ EJDERHA İLE EVLİLİK",
+  "subtitle": "Küllerin Altındaki Taç",
+  "storageId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+  "author": "",
+  "genre": [
+    "Fantastik",
+    "İkinci Şans",
+    "Ejderhalar"
+  ],
+  "kicker": "YEDİ KABİLENİN ARŞİVİ",
+  "coverBrand": "EJDERHA ARŞİVİ",
+  "edition": "TAM HİKÂYE",
+  "coverLocation": "Kül Vadisi · Güneş Sarayı · Ejderha Dağı",
+  "coverMark": "☾",
+  "cover": {
+    "src": "assets/images/cover.webp",
+    "alt": "Arin ve Aren Kül Vadisi’nde; uzakta ejderha dağı.",
+    "width": 800,
+    "height": 1200
+  },
+  "reader": {
+    "appendEndPage": true,
+    "appendLetter": false,
+    "frontmatter": false,
+    "chapterEndings": true
+  },
+  "end": {
+    "title": "KÜLLERİN ALTINDAKİ TAÇ",
+    "mood": "umut"
+  },
+  "sceneSounds": false,
+  "keywords": [
+    "Arin",
+    "Aren",
+    "Selen",
+    "Korvan",
+    "Kül Vadisi",
+    "Ejderha Dağı"
+  ],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "number": 1,
+      "sourceChapter": 0,
+      "title": "BÖLÜM 1 — İHANETLE BİTEN HAYAT",
+      "volume": 1,
+      "offset": 62,
+      "mood": "gizem",
+      "effect": "cizgi",
+      "seal": "oath",
+      "vignettes": [
+        "map",
+        "rings"
+      ],
+      "place": "sarayi",
+      "anchor": "Altın işlemeli elbisesi yırtılmış, bilekleri zincirlenmişti. Gözlerinin önünde ise bütün hayatını birlikte geçirdiği iki kişi duruyordu.",
+      "artAfter": true,
+      "previewQuote": "Altın işlemeli elbisesi yırtılmış, bilekleri zincirlenmişti. Gözlerinin önünde ise bütün hayatını birlikte geçirdiği iki kişi duruyordu.",
+      "previewUnlock": 511,
+      "images": [
+        {
+          "id": "chapter-01",
+          "src": "assets/images/chapter-01.webp",
+          "alt": "BÖLÜM 1 — İHANETLE BİTEN HAYAT · Hikâye illüstrasyonu.",
+          "width": 1200,
+          "height": 675,
+          "placement": "full",
+          "unlock": 511
+        }
+      ],
+      "galleryImage": {
+        "id": "chapter-01",
+        "src": "assets/images/chapter-01.webp",
+        "alt": "BÖLÜM 1 — İHANETLE BİTEN HAYAT · Hikâye illüstrasyonu.",
+        "width": 1200,
+        "height": 675,
+        "placement": "full",
+        "unlock": 511
+      }
+    },
+    {
+      "id": "chapter-02",
+      "number": 2,
+      "sourceChapter": 1,
+      "title": "BÖLÜM 2 — İKİNCİ HAYATIN İLK GÜNÜ",
+      "volume": 1,
+      "offset": 2629,
+      "mood": "gizem",
+      "effect": "cizgi",
+      "seal": "oath",
+      "vignettes": [
+        "map",
+        "rings"
+      ],
+      "place": "meydan",
+      "anchor": "Sarayın soğuk taşları yerine, çocukluğunda uyuduğu yumuşak yataktaydı.",
+      "artAfter": true,
+      "previewQuote": "Sarayın soğuk taşları yerine, çocukluğunda uyuduğu yumuşak yataktaydı.",
+      "previewUnlock": 2897,
+      "images": [
+        {
+          "id": "chapter-02",
+          "src": "assets/images/chapter-02.webp",
+          "alt": "BÖLÜM 2 — İKİNCİ HAYATIN İLK GÜNÜ · Hikâye illüstrasyonu.",
+          "width": 1200,
+          "height": 675,
+          "placement": "inline",
+          "unlock": 2897
+        }
+      ],
+      "galleryImage": {
+        "id": "chapter-02",
+        "src": "assets/images/chapter-02.webp",
+        "alt": "BÖLÜM 2 — İKİNCİ HAYATIN İLK GÜNÜ · Hikâye illüstrasyonu.",
+        "width": 1200,
+        "height": 675,
+        "placement": "inline",
+        "unlock": 2897
+      }
+    },
+    {
+      "id": "chapter-03",
+      "number": 3,
+      "sourceChapter": 2,
+      "title": "BÖLÜM 3 — HERKESİN REDDETTİĞİ EŞ",
+      "volume": 1,
+      "offset": 6203,
+      "mood": "gizem",
+      "effect": "cizgi",
+      "seal": "oath",
+      "vignettes": [
+        "map",
+        "rings"
+      ],
+      "place": "meydan",
+      "anchor": "Sonunda Aren'in önünde durdu.",
+      "artAfter": true,
+      "previewQuote": "Sonunda Aren'in önünde durdu.",
+      "previewUnlock": 6750,
+      "images": [
+        {
+          "id": "chapter-03",
+          "src": "assets/images/chapter-03.webp",
+          "alt": "BÖLÜM 3 — HERKESİN REDDETTİĞİ EŞ · Hikâye illüstrasyonu.",
+          "width": 1200,
+          "height": 675,
+          "placement": "inline",
+          "unlock": 6750
+        }
+      ],
+      "galleryImage": {
+        "id": "chapter-03",
+        "src": "assets/images/chapter-03.webp",
+        "alt": "BÖLÜM 3 — HERKESİN REDDETTİĞİ EŞ · Hikâye illüstrasyonu.",
+        "width": 1200,
+        "height": 675,
+        "placement": "inline",
+        "unlock": 6750
+      }
+    },
+    {
+      "id": "chapter-04",
+      "number": 4,
+      "sourceChapter": 3,
+      "title": "BÖLÜM 4 — KÜL VADİSİ'NDEKİ YENİ HAYAT",
+      "volume": 1,
+      "offset": 9401,
+      "mood": "gizem",
+      "effect": "cizgi",
+      "seal": "oath",
+      "vignettes": [
+        "map",
+        "rings"
+      ],
+      "place": "ev",
+      "anchor": "Bir şömine, küçük bir mutfak ve iki odadan oluşan mütevazı bir evdi.",
+      "artAfter": true,
+      "previewQuote": "Bir şömine, küçük bir mutfak ve iki odadan oluşan mütevazı bir evdi.",
+      "previewUnlock": 10749,
+      "images": [
+        {
+          "id": "chapter-04",
+          "src": "assets/images/chapter-04.webp",
+          "alt": "BÖLÜM 4 — KÜL VADİSİ'NDEKİ YENİ HAYAT · Hikâye illüstrasyonu.",
+          "width": 1200,
+          "height": 675,
+          "placement": "full",
+          "unlock": 10749
+        }
+      ],
+      "galleryImage": {
+        "id": "chapter-04",
+        "src": "assets/images/chapter-04.webp",
+        "alt": "BÖLÜM 4 — KÜL VADİSİ'NDEKİ YENİ HAYAT · Hikâye illüstrasyonu.",
+        "width": 1200,
+        "height": 675,
+        "placement": "full",
+        "unlock": 10749
+      }
+    },
+    {
+      "id": "chapter-05",
+      "number": 5,
+      "sourceChapter": 4,
+      "title": "BÖLÜM 5 — EJDERHANIN İLK İŞARETİ",
+      "volume": 1,
+      "offset": 12990,
+      "mood": "gizem",
+      "effect": "cizgi",
+      "seal": "oath",
+      "vignettes": [
+        "map",
+        "rings"
+      ],
+      "place": "koy",
+      "anchor": "Boynuzları siyah, gözleri kıpkırmızıydı. Ağzından zehirli dumanlar yükseliyordu.",
+      "artAfter": true,
+      "previewQuote": "Boynuzları siyah, gözleri kıpkırmızıydı. Ağzından zehirli dumanlar yükseliyordu.",
+      "previewUnlock": 13985,
+      "images": [
+        {
+          "id": "chapter-05",
+          "src": "assets/images/chapter-05.webp",
+          "alt": "BÖLÜM 5 — EJDERHANIN İLK İŞARETİ · Hikâye illüstrasyonu.",
+          "width": 1200,
+          "height": 675,
+          "placement": "inline",
+          "unlock": 13985
+        }
+      ],
+      "galleryImage": {
+        "id": "chapter-05",
+        "src": "assets/images/chapter-05.webp",
+        "alt": "BÖLÜM 5 — EJDERHANIN İLK İŞARETİ · Hikâye illüstrasyonu.",
+        "width": 1200,
+        "height": 675,
+        "placement": "inline",
+        "unlock": 13985
+      }
+    },
+    {
+      "id": "chapter-06",
+      "number": 6,
+      "sourceChapter": 5,
+      "title": "BÖLÜM 6 — ASLAN KRALI'NIN ZİYAFETİ",
+      "volume": 1,
+      "offset": 15344,
+      "mood": "gizem",
+      "effect": "cizgi",
+      "seal": "oath",
+      "vignettes": [
+        "map",
+        "rings"
+      ],
+      "place": "sarayi",
+      "anchor": "Üzerinde sade, koyu mavi bir elbise vardı.",
+      "artAfter": true,
+      "previewQuote": "Üzerinde sade, koyu mavi bir elbise vardı.",
+      "previewUnlock": 16108,
+      "images": [
+        {
+          "id": "chapter-06",
+          "src": "assets/images/chapter-06.webp",
+          "alt": "BÖLÜM 6 — ASLAN KRALI'NIN ZİYAFETİ · Hikâye illüstrasyonu.",
+          "width": 1200,
+          "height": 675,
+          "placement": "inline",
+          "unlock": 16108
+        }
+      ],
+      "galleryImage": {
+        "id": "chapter-06",
+        "src": "assets/images/chapter-06.webp",
+        "alt": "BÖLÜM 6 — ASLAN KRALI'NIN ZİYAFETİ · Hikâye illüstrasyonu.",
+        "width": 1200,
+        "height": 675,
+        "placement": "inline",
+        "unlock": 16108
+      }
+    },
+    {
+      "id": "chapter-07",
+      "number": 7,
+      "sourceChapter": 6,
+      "title": "BÖLÜM 7 — KALPLERİN YAKINLAŞMASI",
+      "volume": 1,
+      "offset": 18839,
+      "mood": "gizem",
+      "effect": "cizgi",
+      "seal": "oath",
+      "vignettes": [
+        "map",
+        "rings"
+      ],
+      "place": "ev",
+      "anchor": "Yüzüğün üzerinde altın renkli küçük bir ejderha işlenmişti.",
+      "artAfter": true,
+      "previewQuote": "Yüzüğün üzerinde altın renkli küçük bir ejderha işlenmişti.",
+      "previewUnlock": 20083,
+      "images": [
+        {
+          "id": "chapter-07",
+          "src": "assets/images/chapter-07.webp",
+          "alt": "BÖLÜM 7 — KALPLERİN YAKINLAŞMASI · Hikâye illüstrasyonu.",
+          "width": 1200,
+          "height": 675,
+          "placement": "full",
+          "unlock": 20083
+        }
+      ],
+      "galleryImage": {
+        "id": "chapter-07",
+        "src": "assets/images/chapter-07.webp",
+        "alt": "BÖLÜM 7 — KALPLERİN YAKINLAŞMASI · Hikâye illüstrasyonu.",
+        "width": 1200,
+        "height": 675,
+        "placement": "full",
+        "unlock": 20083
+      }
+    },
+    {
+      "id": "chapter-08",
+      "number": 8,
+      "sourceChapter": 7,
+      "title": "BÖLÜM 8 — KARANLIKTAKİ PLAN",
+      "volume": 1,
+      "offset": 21534,
+      "mood": "gizem",
+      "effect": "cizgi",
+      "seal": "oath",
+      "vignettes": [
+        "map",
+        "rings"
+      ],
+      "place": "kutuphane",
+      "anchor": "Selen bir gece sarayın yasak kütüphanesine girdi.",
+      "artAfter": true,
+      "previewQuote": "Selen bir gece sarayın yasak kütüphanesine girdi.",
+      "previewUnlock": 22287,
+      "images": [
+        {
+          "id": "chapter-08",
+          "src": "assets/images/chapter-08.webp",
+          "alt": "BÖLÜM 8 — KARANLIKTAKİ PLAN · Hikâye illüstrasyonu.",
+          "width": 1200,
+          "height": 675,
+          "placement": "inline",
+          "unlock": 22287
+        }
+      ],
+      "galleryImage": {
+        "id": "chapter-08",
+        "src": "assets/images/chapter-08.webp",
+        "alt": "BÖLÜM 8 — KARANLIKTAKİ PLAN · Hikâye illüstrasyonu.",
+        "width": 1200,
+        "height": 675,
+        "placement": "inline",
+        "unlock": 22287
+      }
+    },
+    {
+      "id": "chapter-09",
+      "number": 9,
+      "sourceChapter": 8,
+      "title": "BÖLÜM 9 — EJDERHA KRALI'NIN GERÇEK KİMLİĞİ",
+      "volume": 1,
+      "offset": 23988,
+      "mood": "gizem",
+      "effect": "cizgi",
+      "seal": "oath",
+      "vignettes": [
+        "map",
+        "rings"
+      ],
+      "place": "magara",
+      "anchor": "Saatler sonra eski bir mağaraya ulaştı.",
+      "artAfter": true,
+      "previewQuote": "Saatler sonra eski bir mağaraya ulaştı.",
+      "previewUnlock": 24512,
+      "images": [
+        {
+          "id": "chapter-09",
+          "src": "assets/images/chapter-09.webp",
+          "alt": "BÖLÜM 9 — EJDERHA KRALI'NIN GERÇEK KİMLİĞİ · Hikâye illüstrasyonu.",
+          "width": 1200,
+          "height": 675,
+          "placement": "inline",
+          "unlock": 24512
+        }
+      ],
+      "galleryImage": {
+        "id": "chapter-09",
+        "src": "assets/images/chapter-09.webp",
+        "alt": "BÖLÜM 9 — EJDERHA KRALI'NIN GERÇEK KİMLİĞİ · Hikâye illüstrasyonu.",
+        "width": 1200,
+        "height": 675,
+        "placement": "inline",
+        "unlock": 24512
+      }
+    },
+    {
+      "id": "chapter-10",
+      "number": 10,
+      "sourceChapter": 9,
+      "title": "BÖLÜM 10 — KARANLIK MÜHRÜN UYANIŞI",
+      "volume": 1,
+      "offset": 28436,
+      "mood": "umut",
+      "effect": "cizgi",
+      "seal": "oath",
+      "vignettes": [
+        "map",
+        "rings"
+      ],
+      "place": "maden",
+      "anchor": "O gece Arin, köy halkını eski maden tünellerine yönlendirdi.",
+      "artAfter": true,
+      "previewQuote": "O gece Arin, köy halkını eski maden tünellerine yönlendirdi.",
+      "previewUnlock": 30234,
+      "images": [
+        {
+          "id": "chapter-10",
+          "src": "assets/images/chapter-10.webp",
+          "alt": "BÖLÜM 10 — KARANLIK MÜHRÜN UYANIŞI · Hikâye illüstrasyonu.",
+          "width": 1200,
+          "height": 675,
+          "placement": "full",
+          "unlock": 30234
+        }
+      ],
+      "galleryImage": {
+        "id": "chapter-10",
+        "src": "assets/images/chapter-10.webp",
+        "alt": "BÖLÜM 10 — KARANLIK MÜHRÜN UYANIŞI · Hikâye illüstrasyonu.",
+        "width": 1200,
+        "height": 675,
+        "placement": "full",
+        "unlock": 30234
+      }
+    },
+    {
+      "id": "chapter-11",
+      "number": 11,
+      "sourceChapter": 10,
+      "title": "BÖLÜM 11 — GERÇEK EJDERHA KRALI",
+      "volume": 1,
+      "offset": 31787,
+      "mood": "umut",
+      "effect": "cizgi",
+      "seal": "oath",
+      "vignettes": [
+        "map",
+        "rings"
+      ],
+      "place": "sarayi",
+      "anchor": "Ve bir anda gökyüzünü kaplayan devasa bir siyah ejderhaya dönüştü.",
+      "artAfter": true,
+      "previewQuote": "Ve bir anda gökyüzünü kaplayan devasa bir siyah ejderhaya dönüştü.",
+      "previewUnlock": 34351,
+      "images": [
+        {
+          "id": "chapter-11",
+          "src": "assets/images/chapter-11.webp",
+          "alt": "BÖLÜM 11 — GERÇEK EJDERHA KRALI · Hikâye illüstrasyonu.",
+          "width": 1200,
+          "height": 675,
+          "placement": "inline",
+          "unlock": 34351
+        }
+      ],
+      "galleryImage": {
+        "id": "chapter-11",
+        "src": "assets/images/chapter-11.webp",
+        "alt": "BÖLÜM 11 — GERÇEK EJDERHA KRALI · Hikâye illüstrasyonu.",
+        "width": 1200,
+        "height": 675,
+        "placement": "inline",
+        "unlock": 34351
+      }
+    },
+    {
+      "id": "chapter-12",
+      "number": 12,
+      "sourceChapter": 11,
+      "title": "BÖLÜM 12 — EJDERHA KRALİÇESİ",
+      "volume": 1,
+      "offset": 35794,
+      "mood": "umut",
+      "effect": "cizgi",
+      "seal": "oath",
+      "vignettes": [
+        "map",
+        "rings"
+      ],
+      "place": "krallik",
+      "anchor": "Ve birlikte tahtlarına yürüdüler.",
+      "artAfter": true,
+      "previewQuote": "Ve birlikte tahtlarına yürüdüler.",
+      "previewUnlock": 39666,
+      "images": [
+        {
+          "id": "chapter-12",
+          "src": "assets/images/chapter-12.webp",
+          "alt": "BÖLÜM 12 — EJDERHA KRALİÇESİ · Hikâye illüstrasyonu.",
+          "width": 1200,
+          "height": 675,
+          "placement": "full",
+          "unlock": 39666
+        }
+      ],
+      "galleryImage": {
+        "id": "chapter-12",
+        "src": "assets/images/chapter-12.webp",
+        "alt": "BÖLÜM 12 — EJDERHA KRALİÇESİ · Hikâye illüstrasyonu.",
+        "width": 1200,
+        "height": 675,
+        "placement": "full",
+        "unlock": 39666
+      }
+    },
+    {
+      "id": "epilogue",
+      "number": 0,
+      "sourceChapter": 12,
+      "title": "SON BÖLÜM — ASIL MUTLULUK",
+      "volume": 1,
+      "offset": 39668,
+      "mood": "umut",
+      "effect": "cizgi",
+      "seal": "oath",
+      "vignettes": [
+        "map",
+        "rings"
+      ],
+      "place": "ev",
+      "anchor": "Bir gün, güneş batarken küçük taş evlerinin önünde oturuyorlardı.",
+      "artAfter": true,
+      "previewQuote": "Bir gün, güneş batarken küçük taş evlerinin önünde oturuyorlardı.",
+      "previewUnlock": 40078,
+      "images": [
+        {
+          "id": "epilogue",
+          "src": "assets/images/epilogue.webp",
+          "alt": "SON BÖLÜM — ASIL MUTLULUK · Hikâye illüstrasyonu.",
+          "width": 1200,
+          "height": 675,
+          "placement": "full",
+          "unlock": 40078
+        }
+      ],
+      "galleryImage": {
+        "id": "epilogue",
+        "src": "assets/images/epilogue.webp",
+        "alt": "SON BÖLÜM — ASIL MUTLULUK · Hikâye illüstrasyonu.",
+        "width": 1200,
+        "height": 675,
+        "placement": "full",
+        "unlock": 40078
+      }
+    }
+  ]
+}

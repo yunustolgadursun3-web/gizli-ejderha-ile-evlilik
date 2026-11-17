@@ -1,0 +1,441 @@
+{
+  "vadi": {
+    "name": "Kül Vadisi",
+    "src": "assets/images/chapter-04.webp",
+    "areas": [
+      {
+        "id": "navigate-koy",
+        "node": "koy",
+        "kind": "city",
+        "name": "Kül Vadisi Köyü",
+        "label": "Kül Vadisi Köyü",
+        "x": 64,
+        "y": 54,
+        "src": "assets/images/chapter-04.webp",
+        "memorySrc": "assets/images/chapter-04.webp",
+        "quote": "Eski taş evler, dar yollar ve kurumuş ağaçlar vardı. İnsanlar yoksuldu ama birbirlerini tanıyorlardı.",
+        "sourceStart": 10480,
+        "sourceEnd": 10581,
+        "unlock": 10581,
+        "characters": []
+      },
+      {
+        "id": "navigate-maden",
+        "node": "maden",
+        "kind": "city",
+        "name": "Eski Maden Tünelleri",
+        "label": "Eski Maden Tünelleri",
+        "x": 64,
+        "y": 54,
+        "src": "assets/images/chapter-10.webp",
+        "memorySrc": "assets/images/chapter-10.webp",
+        "quote": "O gece Arin, köy halkını eski maden tünellerine yönlendirdi.",
+        "sourceStart": 30174,
+        "sourceEnd": 30234,
+        "unlock": 30234,
+        "characters": []
+      }
+    ]
+  },
+  "koy": {
+    "name": "Kül Vadisi Köyü",
+    "src": "assets/images/chapter-04.webp",
+    "areas": [
+      {
+        "id": "chapter-05",
+        "name": "BÖLÜM 5 — EJDERHANIN İLK İŞARETİ",
+        "label": "EJDERHANIN İLK İŞARETİ",
+        "quote": "Boynuzları siyah, gözleri kıpkırmızıydı. Ağzından zehirli dumanlar yükseliyordu.",
+        "sourceChapter": 4,
+        "src": "assets/images/chapter-05.webp",
+        "memorySrc": "assets/images/chapter-05.webp",
+        "x": 33,
+        "y": 37,
+        "sourceStart": 13905,
+        "sourceEnd": 13985,
+        "unlock": 13985,
+        "chapter": {
+          "id": "chapter-05",
+          "number": 5,
+          "sourceChapter": 4,
+          "title": "BÖLÜM 5 — EJDERHANIN İLK İŞARETİ",
+          "offset": 12990
+        },
+        "characters": [],
+        "discoveries": []
+      },
+      {
+        "id": "navigate-ev",
+        "node": "ev",
+        "kind": "city",
+        "name": "Küçük Taş Ev",
+        "label": "Küçük Taş Ev",
+        "x": 64,
+        "y": 54,
+        "src": "assets/images/chapter-04.webp",
+        "memorySrc": "assets/images/chapter-04.webp",
+        "quote": "Bir şömine, küçük bir mutfak ve iki odadan oluşan mütevazı bir evdi.",
+        "sourceStart": 10681,
+        "sourceEnd": 10749,
+        "unlock": 10749,
+        "characters": []
+      }
+    ]
+  },
+  "ev": {
+    "name": "Küçük Taş Ev",
+    "src": "assets/images/chapter-04.webp",
+    "areas": [
+      {
+        "id": "chapter-04",
+        "name": "BÖLÜM 4 — KÜL VADİSİ'NDEKİ YENİ HAYAT",
+        "label": "KÜL VADİSİ'NDEKİ YENİ HAYAT",
+        "quote": "Bir şömine, küçük bir mutfak ve iki odadan oluşan mütevazı bir evdi.",
+        "sourceChapter": 3,
+        "src": "assets/images/chapter-04.webp",
+        "memorySrc": "assets/images/chapter-04.webp",
+        "x": 33,
+        "y": 37,
+        "sourceStart": 10681,
+        "sourceEnd": 10749,
+        "unlock": 10749,
+        "chapter": {
+          "id": "chapter-04",
+          "number": 4,
+          "sourceChapter": 3,
+          "title": "BÖLÜM 4 — KÜL VADİSİ'NDEKİ YENİ HAYAT",
+          "offset": 9401
+        },
+        "characters": [],
+        "discoveries": []
+      },
+      {
+        "id": "chapter-07",
+        "name": "BÖLÜM 7 — KALPLERİN YAKINLAŞMASI",
+        "label": "KALPLERİN YAKINLAŞMASI",
+        "quote": "Yüzüğün üzerinde altın renkli küçük bir ejderha işlenmişti.",
+        "sourceChapter": 6,
+        "src": "assets/images/chapter-07.webp",
+        "memorySrc": "assets/images/chapter-07.webp",
+        "x": 53,
+        "y": 37,
+        "sourceStart": 20024,
+        "sourceEnd": 20083,
+        "unlock": 20083,
+        "chapter": {
+          "id": "chapter-07",
+          "number": 7,
+          "sourceChapter": 6,
+          "title": "BÖLÜM 7 — KALPLERİN YAKINLAŞMASI",
+          "offset": 18839
+        },
+        "characters": [],
+        "discoveries": []
+      },
+      {
+        "id": "epilogue",
+        "name": "SON BÖLÜM — ASIL MUTLULUK",
+        "label": "SON BÖLÜM — ASIL MUTLULUK",
+        "quote": "Bir gün, güneş batarken küçük taş evlerinin önünde oturuyorlardı.",
+        "sourceChapter": 12,
+        "src": "assets/images/epilogue.webp",
+        "memorySrc": "assets/images/epilogue.webp",
+        "x": 73,
+        "y": 37,
+        "sourceStart": 40013,
+        "sourceEnd": 40078,
+        "unlock": 40078,
+        "chapter": {
+          "id": "epilogue",
+          "number": 0,
+          "sourceChapter": 12,
+          "title": "SON BÖLÜM — ASIL MUTLULUK",
+          "offset": 39668
+        },
+        "characters": [],
+        "discoveries": []
+      }
+    ]
+  },
+  "dag": {
+    "name": "Ejderha Dağı",
+    "src": "assets/images/chapter-09.webp",
+    "areas": [
+      {
+        "id": "navigate-magara",
+        "node": "magara",
+        "kind": "city",
+        "name": "Dağ Mağarası",
+        "label": "Dağ Mağarası",
+        "x": 64,
+        "y": 54,
+        "src": "assets/images/chapter-09.webp",
+        "memorySrc": "assets/images/chapter-09.webp",
+        "quote": "Saatler sonra eski bir mağaraya ulaştı.",
+        "sourceStart": 24473,
+        "sourceEnd": 24512,
+        "unlock": 24512,
+        "characters": []
+      }
+    ]
+  },
+  "magara": {
+    "name": "Dağ Mağarası",
+    "src": "assets/images/chapter-09.webp",
+    "areas": [
+      {
+        "id": "chapter-09",
+        "name": "BÖLÜM 9 — EJDERHA KRALI'NIN GERÇEK KİMLİĞİ",
+        "label": "EJDERHA KRALI'NIN GERÇEK KİMLİĞİ",
+        "quote": "Saatler sonra eski bir mağaraya ulaştı.",
+        "sourceChapter": 8,
+        "src": "assets/images/chapter-09.webp",
+        "memorySrc": "assets/images/chapter-09.webp",
+        "x": 33,
+        "y": 37,
+        "sourceStart": 24473,
+        "sourceEnd": 24512,
+        "unlock": 24512,
+        "chapter": {
+          "id": "chapter-09",
+          "number": 9,
+          "sourceChapter": 8,
+          "title": "BÖLÜM 9 — EJDERHA KRALI'NIN GERÇEK KİMLİĞİ",
+          "offset": 23988
+        },
+        "characters": [],
+        "discoveries": []
+      }
+    ]
+  },
+  "sarayi": {
+    "name": "Güneş Sarayı",
+    "src": "assets/images/chapter-06.webp",
+    "areas": [
+      {
+        "id": "chapter-01",
+        "name": "BÖLÜM 1 — İHANETLE BİTEN HAYAT",
+        "label": "İHANETLE BİTEN HAYAT",
+        "quote": "Altın işlemeli elbisesi yırtılmış, bilekleri zincirlenmişti. Gözlerinin önünde ise bütün hayatını birlikte geçirdiği iki kişi duruyordu.",
+        "sourceChapter": 0,
+        "src": "assets/images/chapter-01.webp",
+        "memorySrc": "assets/images/chapter-01.webp",
+        "x": 33,
+        "y": 37,
+        "sourceStart": 375,
+        "sourceEnd": 511,
+        "unlock": 15840,
+        "chapter": {
+          "id": "chapter-01",
+          "number": 1,
+          "sourceChapter": 0,
+          "title": "BÖLÜM 1 — İHANETLE BİTEN HAYAT",
+          "offset": 62
+        },
+        "characters": [],
+        "discoveries": []
+      },
+      {
+        "id": "chapter-06",
+        "name": "BÖLÜM 6 — ASLAN KRALI'NIN ZİYAFETİ",
+        "label": "ASLAN KRALI'NIN ZİYAFETİ",
+        "quote": "Üzerinde sade, koyu mavi bir elbise vardı.",
+        "sourceChapter": 5,
+        "src": "assets/images/chapter-06.webp",
+        "memorySrc": "assets/images/chapter-06.webp",
+        "x": 53,
+        "y": 37,
+        "sourceStart": 16066,
+        "sourceEnd": 16108,
+        "unlock": 16108,
+        "chapter": {
+          "id": "chapter-06",
+          "number": 6,
+          "sourceChapter": 5,
+          "title": "BÖLÜM 6 — ASLAN KRALI'NIN ZİYAFETİ",
+          "offset": 15344
+        },
+        "characters": [],
+        "discoveries": []
+      },
+      {
+        "id": "chapter-11",
+        "name": "BÖLÜM 11 — GERÇEK EJDERHA KRALI",
+        "label": "GERÇEK EJDERHA KRALI",
+        "quote": "Ve bir anda gökyüzünü kaplayan devasa bir siyah ejderhaya dönüştü.",
+        "sourceChapter": 10,
+        "src": "assets/images/chapter-11.webp",
+        "memorySrc": "assets/images/chapter-11.webp",
+        "x": 73,
+        "y": 37,
+        "sourceStart": 34285,
+        "sourceEnd": 34351,
+        "unlock": 34351,
+        "chapter": {
+          "id": "chapter-11",
+          "number": 11,
+          "sourceChapter": 10,
+          "title": "BÖLÜM 11 — GERÇEK EJDERHA KRALI",
+          "offset": 31787
+        },
+        "characters": [],
+        "discoveries": []
+      },
+      {
+        "id": "navigate-kutuphane",
+        "node": "kutuphane",
+        "kind": "city",
+        "name": "Yasak Kütüphane",
+        "label": "Yasak Kütüphane",
+        "x": 64,
+        "y": 54,
+        "src": "assets/images/chapter-08.webp",
+        "memorySrc": "assets/images/chapter-08.webp",
+        "quote": "Selen bir gece sarayın yasak kütüphanesine girdi.",
+        "sourceStart": 22238,
+        "sourceEnd": 22287,
+        "unlock": 22287,
+        "characters": []
+      }
+    ]
+  },
+  "kutuphane": {
+    "name": "Yasak Kütüphane",
+    "src": "assets/images/chapter-08.webp",
+    "areas": [
+      {
+        "id": "chapter-08",
+        "name": "BÖLÜM 8 — KARANLIKTAKİ PLAN",
+        "label": "KARANLIKTAKİ PLAN",
+        "quote": "Selen bir gece sarayın yasak kütüphanesine girdi.",
+        "sourceChapter": 7,
+        "src": "assets/images/chapter-08.webp",
+        "memorySrc": "assets/images/chapter-08.webp",
+        "x": 33,
+        "y": 37,
+        "sourceStart": 22238,
+        "sourceEnd": 22287,
+        "unlock": 22287,
+        "chapter": {
+          "id": "chapter-08",
+          "number": 8,
+          "sourceChapter": 7,
+          "title": "BÖLÜM 8 — KARANLIKTAKİ PLAN",
+          "offset": 21534
+        },
+        "characters": [],
+        "discoveries": []
+      }
+    ]
+  },
+  "maden": {
+    "name": "Eski Maden Tünelleri",
+    "src": "assets/images/chapter-10.webp",
+    "areas": [
+      {
+        "id": "chapter-10",
+        "name": "BÖLÜM 10 — KARANLIK MÜHRÜN UYANIŞI",
+        "label": "KARANLIK MÜHRÜN UYANIŞI",
+        "quote": "O gece Arin, köy halkını eski maden tünellerine yönlendirdi.",
+        "sourceChapter": 9,
+        "src": "assets/images/chapter-10.webp",
+        "memorySrc": "assets/images/chapter-10.webp",
+        "x": 33,
+        "y": 37,
+        "sourceStart": 30174,
+        "sourceEnd": 30234,
+        "unlock": 30234,
+        "chapter": {
+          "id": "chapter-10",
+          "number": 10,
+          "sourceChapter": 9,
+          "title": "BÖLÜM 10 — KARANLIK MÜHRÜN UYANIŞI",
+          "offset": 28436
+        },
+        "characters": [],
+        "discoveries": []
+      }
+    ]
+  },
+  "meydan": {
+    "name": "Eş Seçimi Meydanı",
+    "src": "assets/images/chapter-03.webp",
+    "areas": [
+      {
+        "id": "chapter-02",
+        "name": "BÖLÜM 2 — İKİNCİ HAYATIN İLK GÜNÜ",
+        "label": "İKİNCİ HAYATIN İLK GÜNÜ",
+        "quote": "Sarayın soğuk taşları yerine, çocukluğunda uyuduğu yumuşak yataktaydı.",
+        "sourceChapter": 1,
+        "src": "assets/images/chapter-02.webp",
+        "memorySrc": "assets/images/chapter-02.webp",
+        "x": 33,
+        "y": 37,
+        "sourceStart": 2827,
+        "sourceEnd": 2897,
+        "unlock": 6282,
+        "chapter": {
+          "id": "chapter-02",
+          "number": 2,
+          "sourceChapter": 1,
+          "title": "BÖLÜM 2 — İKİNCİ HAYATIN İLK GÜNÜ",
+          "offset": 2629
+        },
+        "characters": [],
+        "discoveries": []
+      },
+      {
+        "id": "chapter-03",
+        "name": "BÖLÜM 3 — HERKESİN REDDETTİĞİ EŞ",
+        "label": "HERKESİN REDDETTİĞİ EŞ",
+        "quote": "Sonunda Aren'in önünde durdu.",
+        "sourceChapter": 2,
+        "src": "assets/images/chapter-03.webp",
+        "memorySrc": "assets/images/chapter-03.webp",
+        "x": 53,
+        "y": 37,
+        "sourceStart": 6721,
+        "sourceEnd": 6750,
+        "unlock": 6750,
+        "chapter": {
+          "id": "chapter-03",
+          "number": 3,
+          "sourceChapter": 2,
+          "title": "BÖLÜM 3 — HERKESİN REDDETTİĞİ EŞ",
+          "offset": 6203
+        },
+        "characters": [],
+        "discoveries": []
+      }
+    ]
+  },
+  "krallik": {
+    "name": "Ejderha Krallığı",
+    "src": "assets/images/chapter-12.webp",
+    "areas": [
+      {
+        "id": "chapter-12",
+        "name": "BÖLÜM 12 — EJDERHA KRALİÇESİ",
+        "label": "EJDERHA KRALİÇESİ",
+        "quote": "Ve birlikte tahtlarına yürüdüler.",
+        "sourceChapter": 11,
+        "src": "assets/images/chapter-12.webp",
+        "memorySrc": "assets/images/chapter-12.webp",
+        "x": 33,
+        "y": 37,
+        "sourceStart": 39633,
+        "sourceEnd": 39666,
+        "unlock": 39785,
+        "chapter": {
+          "id": "chapter-12",
+          "number": 12,
+          "sourceChapter": 11,
+          "title": "BÖLÜM 12 — EJDERHA KRALİÇESİ",
+          "offset": 35794
+        },
+        "characters": [],
+        "discoveries": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,1463 @@
+{
+  "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+  "assets": [
+    {
+      "id": "cinzel.woff2",
+      "src": "assets/fonts/cinzel.woff2",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "font",
+      "sha256": "a5779eb98b5046090f99169b529743e356b452909295ad7db4cb70011e0425e0"
+    },
+    {
+      "id": "lora-italic.woff2",
+      "src": "assets/fonts/lora-italic.woff2",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "font",
+      "sha256": "3bb65e234cd07a69127592cafd08ce4242a1a4ace24dcc4c466881693fc74867"
+    },
+    {
+      "id": "lora.woff2",
+      "src": "assets/fonts/lora.woff2",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "font",
+      "sha256": "525551030c504c0eb42d71b48ce10027e4431bd405d6cd04c468a535ce8d961b"
+    },
+    {
+      "id": "aren-480.webp",
+      "src": "assets/images/aren-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "36be1449d3137bb7c4abbb1e85e8255751441210ed375fb676e28ec5caec1f1d"
+    },
+    {
+      "id": "aren.webp",
+      "src": "assets/images/aren.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "55d3e05351e13397cc61bdd13ad9a4ae45a2fdca2e970c9370a77d73f129cea8"
+    },
+    {
+      "id": "arin-480.webp",
+      "src": "assets/images/arin-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "48d189b20aa46e1c6f286a5004ac4c2d314275aa728696616fc6ee2d68c159fd"
+    },
+    {
+      "id": "arin.webp",
+      "src": "assets/images/arin.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "37e94ba8e76f802d49a83b5dce63f7813bb69fce6fafd61b2449a3a533863ee3"
+    },
+    {
+      "id": "atlas-480.webp",
+      "src": "assets/images/atlas-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "52fd8ada0e569ff2228ac3daa7fdc0bda197c248183f2b0293ffc6b2c119d412"
+    },
+    {
+      "id": "atlas.webp",
+      "src": "assets/images/atlas.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "7f12aa2a270de73adf0e0a876c6a0ea5a8f9b805c285cfd516db6bcc4eec85af"
+    },
+    {
+      "id": "book-sigil.svg",
+      "src": "assets/images/book-sigil.svg",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "0afafb5a5875b94fbb6b20052e48141706dd98b7306c9d0e9f42a5c1ccc2af54"
+    },
+    {
+      "id": "chapter-01-480.webp",
+      "src": "assets/images/chapter-01-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "247a124aff819ae6c65c900e7ce144209e32281fe18cf01b882792f75e8b77fb"
+    },
+    {
+      "id": "chapter-01.webp",
+      "src": "assets/images/chapter-01.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "84b86a621ff6a39f5608d8c77467474b14b3ed74347888d0000641093de750aa"
+    },
+    {
+      "id": "chapter-02-480.webp",
+      "src": "assets/images/chapter-02-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "3112dfdc701bb52b2c5f7b14feebcd77f53adb16ae11f3d16e3df3f85e4f713d"
+    },
+    {
+      "id": "chapter-02.webp",
+      "src": "assets/images/chapter-02.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "bd04f2bf8e264d884b04303158f9c507149f5aa5ea4a3befa371370d798b24d8"
+    },
+    {
+      "id": "chapter-03-480.webp",
+      "src": "assets/images/chapter-03-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "726fb7253ecaa5d71fd15f726a21f622366f0c0dd9e8f8c598f2bcd5c1d0e996"
+    },
+    {
+      "id": "chapter-03.webp",
+      "src": "assets/images/chapter-03.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "66076405487eebefad58aea54c7c8b5676ff4a29f90b785e55453b963838a048"
+    },
+    {
+      "id": "chapter-04-480.webp",
+      "src": "assets/images/chapter-04-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "5e93240ac6d22808d7f29b6da87bb8ece426b575badbec34a03b6b8a014f8815"
+    },
+    {
+      "id": "chapter-04.webp",
+      "src": "assets/images/chapter-04.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "d055fd62cfe15e85f9b5cc82427403ef48023dfd5f5a98e2391bcc6d08bb53b3"
+    },
+    {
+      "id": "chapter-05-480.webp",
+      "src": "assets/images/chapter-05-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "a42fc2d46cf5d180b3b019cff049361ee5d9f91151995187641ba43d20e9859e"
+    },
+    {
+      "id": "chapter-05.webp",
+      "src": "assets/images/chapter-05.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "7ac1d06a19b0ae46cdb734a6fab8216e7d2d2bf7f26e0f9d07e896e34e78958b"
+    },
+    {
+      "id": "chapter-06-480.webp",
+      "src": "assets/images/chapter-06-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "1d2296d82b1e1fc3c96af1d70faef3fdf3e1bf488ed56805d7932cd24cda865e"
+    },
+    {
+      "id": "chapter-06.webp",
+      "src": "assets/images/chapter-06.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "067d3e730eef08a6649bbff942aefd024046fe48decfdc4f2e3516792017bbda"
+    },
+    {
+      "id": "chapter-07-480.webp",
+      "src": "assets/images/chapter-07-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "c81a25e399c1b21debccce057565b6e9aa0e6f874a7d20dc25e7a35dba75f185"
+    },
+    {
+      "id": "chapter-07.webp",
+      "src": "assets/images/chapter-07.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "aad5f52dd67ab0276d9e0e866116a0afeb021df115347952b768332d713c4c6c"
+    },
+    {
+      "id": "chapter-08-480.webp",
+      "src": "assets/images/chapter-08-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "8e0b11a6bd073d751ec1e1684b95b9108bc03d31b57aa520ae321fb722530891"
+    },
+    {
+      "id": "chapter-08.webp",
+      "src": "assets/images/chapter-08.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "80818ea0a67c74507a57676299e0f576618877ac29663bd51a85fed8e3ad7c08"
+    },
+    {
+      "id": "chapter-09-480.webp",
+      "src": "assets/images/chapter-09-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "ceefb0cc0b4d5a0c7f2765721cc84ab41a5adb0225fb6ddf13ffa7d2624fcef3"
+    },
+    {
+      "id": "chapter-09.webp",
+      "src": "assets/images/chapter-09.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "7392809ae83e2902977d55ea5c7a3ef0c820a5b6a6e62e7bf8b63018162a1ebc"
+    },
+    {
+      "id": "chapter-10-480.webp",
+      "src": "assets/images/chapter-10-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "557fe1953a83f18b160a455702840b1b1d9496eb4c25154fc5932c82ae7fb2b4"
+    },
+    {
+      "id": "chapter-10.webp",
+      "src": "assets/images/chapter-10.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "58ba1d9ac4439b4dad02ac5ff0134dbea88cce7a2fa949260b6b2a0c8fefeaf4"
+    },
+    {
+      "id": "chapter-11-480.webp",
+      "src": "assets/images/chapter-11-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "bad32e627fcb87dc9cc21682247ff08342556667bd5b7e0b49564b72eb754534"
+    },
+    {
+      "id": "chapter-11.webp",
+      "src": "assets/images/chapter-11.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "81b0e6a42f3baa1e3b80a1582a099468536e24a83782e4256ad1e33657c4fb99"
+    },
+    {
+      "id": "chapter-12-480.webp",
+      "src": "assets/images/chapter-12-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "1f518db87027123bf4101180a38b7ee0a14c46336c440a2015e95f706625f804"
+    },
+    {
+      "id": "chapter-12.webp",
+      "src": "assets/images/chapter-12.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "e3b73251d91ac129c58be10a82b6647b3ffd584a2047b56e9905fe10b5ef8a35"
+    },
+    {
+      "id": "cover-480.webp",
+      "src": "assets/images/cover-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "371cb88ca7764b527a2405878c632465a29e95b38d6ced493a9b9620c1a3a696"
+    },
+    {
+      "id": "cover.webp",
+      "src": "assets/images/cover.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "b03064e0caa66bd933eabdbd4c0bd1b6ba1d2b92f13e1dba4da4d27eb814eb94"
+    },
+    {
+      "id": "aren.webp",
+      "src": "assets/images/detail/aren.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "72dcc2e4f0ea550a1c31421a9ae71eb632191c108e5a3a613b420ab3d0f9aa0c"
+    },
+    {
+      "id": "arin.webp",
+      "src": "assets/images/detail/arin.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "35fc64033a6da3f3679821ea85742e568c7771f4c631f7251f9f3857b935d610"
+    },
+    {
+      "id": "atlas.webp",
+      "src": "assets/images/detail/atlas.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "f67d46badb91586f8fe89313bcf2030edb72e668a88d3bb52fbcfa4a9cf52eb6"
+    },
+    {
+      "id": "chapter-01.webp",
+      "src": "assets/images/detail/chapter-01.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "8fed3aac46b526e800423d32f7fbf60d19359c1700741f1f1982667bebac6811"
+    },
+    {
+      "id": "chapter-02.webp",
+      "src": "assets/images/detail/chapter-02.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "fcca1ec16b389975cf9270699c52322aab16f3bbb2724ab7dc9201b83e8ebfaf"
+    },
+    {
+      "id": "chapter-03.webp",
+      "src": "assets/images/detail/chapter-03.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "b26dd41dbb4b1adc89667e221c608986c460ec92ace908fc89807e3dda5bfdcc"
+    },
+    {
+      "id": "chapter-04.webp",
+      "src": "assets/images/detail/chapter-04.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "543aa580955e52f882845ed2dae323a44c6f12a4221de14b53a82923cfe67f30"
+    },
+    {
+      "id": "chapter-05.webp",
+      "src": "assets/images/detail/chapter-05.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "77e8e928eedb78ec401c0f20e159067a8489bc08ec70d04e265bc9a3e94dec3e"
+    },
+    {
+      "id": "chapter-06.webp",
+      "src": "assets/images/detail/chapter-06.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "9cccf96bb09b4d5c1b09d4cc2730a3f4455fbc11410aba0efcd21035a02c0822"
+    },
+    {
+      "id": "chapter-07.webp",
+      "src": "assets/images/detail/chapter-07.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "bdd022b3daf3bd5dde544f50f177082595c2a1823ee8fccec0066de9915443a8"
+    },
+    {
+      "id": "chapter-08.webp",
+      "src": "assets/images/detail/chapter-08.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "afca6efa3431f23dffd5b7e470804f916bb3a6798760195d89815f45b425e4f1"
+    },
+    {
+      "id": "chapter-09.webp",
+      "src": "assets/images/detail/chapter-09.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "8c59a6e14fb7144dc3e8c67eb2b4e18f9d47a53252f0815372aeef7fc4169cdf"
+    },
+    {
+      "id": "chapter-10.webp",
+      "src": "assets/images/detail/chapter-10.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "9b170686a59fadaa3d42def8c9ab37a8df689cad8069a8ac6d61b3c63da5bef8"
+    },
+    {
+      "id": "chapter-11.webp",
+      "src": "assets/images/detail/chapter-11.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "93a5a72431a196fb9a77a8871f8b899c47d46ff46353448c0aa205cc714c6b27"
+    },
+    {
+      "id": "chapter-12.webp",
+      "src": "assets/images/detail/chapter-12.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "a4cd6cc8a88ad7a66cf8e1dac6b0086c357f2aa8ce72f75210edb3f372828ca9"
+    },
+    {
+      "id": "cover.webp",
+      "src": "assets/images/detail/cover.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "66078dd4eee9f03c2a8a78c3a4c3117eb83a41ccfd883a9fca0008a1d5f0c53e"
+    },
+    {
+      "id": "epilogue.webp",
+      "src": "assets/images/detail/epilogue.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "73a390555dcce67892dbed4b38fc650fb1148c943a3fa42a49cd473fc1807987"
+    },
+    {
+      "id": "korvan.webp",
+      "src": "assets/images/detail/korvan.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "bf87ae1409135bcf00a96a70dadf79239df14b64c18fdd624198dd3cf1dd2362"
+    },
+    {
+      "id": "selen.webp",
+      "src": "assets/images/detail/selen.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "f5643ac208645a4a9757a4ca8aaf8fdc4bfb174b70a8245a3f3ce20fe10b6867"
+    },
+    {
+      "id": "epilogue-480.webp",
+      "src": "assets/images/epilogue-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "866e7381073f28612f7548cbc13630f07830e046ced96872f4b345429f076e56"
+    },
+    {
+      "id": "epilogue.webp",
+      "src": "assets/images/epilogue.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "418962ad77454e56d85f98bf2b3edd05f7293a3cb50e5e9167d7337970a56a34"
+    },
+    {
+      "id": "favicon.svg",
+      "src": "assets/images/favicon.svg",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "0afafb5a5875b94fbb6b20052e48141706dd98b7306c9d0e9f42a5c1ccc2af54"
+    },
+    {
+      "id": "hero-480.webp",
+      "src": "assets/images/hero-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "fa5aabc1d84036643b69deaca4d42457397ae6bc7caa204ad54241cfe21749cd"
+    },
+    {
+      "id": "hero.webp",
+      "src": "assets/images/hero.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "35ea0f5e8c3469d6eb52bc11c2175ed73c2f72195477c2770f52320cb1ff427f"
+    },
+    {
+      "id": "icon-192.png",
+      "src": "assets/images/icon-192.png",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "d774cb3ed7f014698593340f27e5024f64dd45443c2bbd4e7b55bf37dc47b52c"
+    },
+    {
+      "id": "icon-512.png",
+      "src": "assets/images/icon-512.png",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "0ecb8ba34aa0c34c77fd925e8d12cf976dcd7ba6cf0e6712923d36ba8504564a"
+    },
+    {
+      "id": "korvan-480.webp",
+      "src": "assets/images/korvan-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "bd6713c753af235932c7aa4a9096af3ed1c6a1c1677bc6c621dcc48b5cb798e6"
+    },
+    {
+      "id": "korvan.webp",
+      "src": "assets/images/korvan.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "f4655328daaffbecddb6d81f937247cf262870be29d820db3750badd3e8c7a35"
+    },
+    {
+      "id": "og-cover.webp",
+      "src": "assets/images/og-cover.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "c88c18bbf6cf40009c0356d68cabe6bb5bad28fdd61efc9de7d788b1feb04d01"
+    },
+    {
+      "id": "selen-480.webp",
+      "src": "assets/images/selen-480.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "603c6e4509c66b2ae399d382b29183bf4b8a8695ed39a76389122823088524bf"
+    },
+    {
+      "id": "selen.webp",
+      "src": "assets/images/selen.webp",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "image",
+      "sha256": "1ea2b35951d0739b61e7e25c1dd49d71cd06220b97f46ca02e64cb175dd66bad"
+    },
+    {
+      "id": "ay-sisi.mp3",
+      "src": "assets/music/ay-sisi.mp3",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "audio",
+      "sha256": "7bfdfb577dd48e51ec96a466978173429ce3efb619454a6d57144760950c8195"
+    },
+    {
+      "id": "sayfa.wav",
+      "src": "assets/sounds/sayfa.wav",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "audio",
+      "sha256": "2adf7c997976d5aeaff4d70cb52cf34cb4db0493822ffa66cdeb31288643f242"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "number": 1,
+      "title": "BÖLÜM 1 — İHANETLE BİTEN HAYAT",
+      "gallery": "assets/images/chapter-01.webp",
+      "opening": null,
+      "inserts": [
+        "assets/images/chapter-01.webp"
+      ],
+      "discoveries": [
+        "arin",
+        "selen",
+        "korvan",
+        "ihanet"
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "number": 2,
+      "title": "BÖLÜM 2 — İKİNCİ HAYATIN İLK GÜNÜ",
+      "gallery": "assets/images/chapter-02.webp",
+      "opening": null,
+      "inserts": [
+        "assets/images/chapter-02.webp"
+      ],
+      "discoveries": [
+        "vadi",
+        "aren",
+        "uyanis"
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "number": 3,
+      "title": "BÖLÜM 3 — HERKESİN REDDETTİĞİ EŞ",
+      "gallery": "assets/images/chapter-03.webp",
+      "opening": null,
+      "inserts": [
+        "assets/images/chapter-03.webp"
+      ],
+      "discoveries": [
+        "dag",
+        "meydan",
+        "secim"
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "number": 4,
+      "title": "BÖLÜM 4 — KÜL VADİSİ'NDEKİ YENİ HAYAT",
+      "gallery": "assets/images/chapter-04.webp",
+      "opening": null,
+      "inserts": [
+        "assets/images/chapter-04.webp"
+      ],
+      "discoveries": [
+        "koy",
+        "ev",
+        "arin-aren",
+        "yeni-ev"
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "number": 5,
+      "title": "BÖLÜM 5 — EJDERHANIN İLK İŞARETİ",
+      "gallery": "assets/images/chapter-05.webp",
+      "opening": null,
+      "inserts": [
+        "assets/images/chapter-05.webp"
+      ],
+      "discoveries": [
+        "isaret"
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "number": 6,
+      "title": "BÖLÜM 6 — ASLAN KRALI'NIN ZİYAFETİ",
+      "gallery": "assets/images/chapter-06.webp",
+      "opening": null,
+      "inserts": [
+        "assets/images/chapter-06.webp"
+      ],
+      "discoveries": [
+        "sarayi",
+        "ziyafet"
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "number": 7,
+      "title": "BÖLÜM 7 — KALPLERİN YAKINLAŞMASI",
+      "gallery": "assets/images/chapter-07.webp",
+      "opening": null,
+      "inserts": [
+        "assets/images/chapter-07.webp"
+      ],
+      "discoveries": [
+        "yuzuk"
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "number": 8,
+      "title": "BÖLÜM 8 — KARANLIKTAKİ PLAN",
+      "gallery": "assets/images/chapter-08.webp",
+      "opening": null,
+      "inserts": [
+        "assets/images/chapter-08.webp"
+      ],
+      "discoveries": [
+        "kutuphane"
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "number": 9,
+      "title": "BÖLÜM 9 — EJDERHA KRALI'NIN GERÇEK KİMLİĞİ",
+      "gallery": "assets/images/chapter-09.webp",
+      "opening": null,
+      "inserts": [
+        "assets/images/chapter-09.webp"
+      ],
+      "discoveries": [
+        "magara",
+        "sir"
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "number": 10,
+      "title": "BÖLÜM 10 — KARANLIK MÜHRÜN UYANIŞI",
+      "gallery": "assets/images/chapter-10.webp",
+      "opening": null,
+      "inserts": [
+        "assets/images/chapter-10.webp"
+      ],
+      "discoveries": [
+        "maden",
+        "siginak"
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "number": 11,
+      "title": "BÖLÜM 11 — GERÇEK EJDERHA KRALI",
+      "gallery": "assets/images/chapter-11.webp",
+      "opening": null,
+      "inserts": [
+        "assets/images/chapter-11.webp"
+      ],
+      "discoveries": [
+        "ejderha"
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "number": 12,
+      "title": "BÖLÜM 12 — EJDERHA KRALİÇESİ",
+      "gallery": "assets/images/chapter-12.webp",
+      "opening": null,
+      "inserts": [
+        "assets/images/chapter-12.webp"
+      ],
+      "discoveries": [
+        "tac"
+      ]
+    },
+    {
+      "id": "epilogue",
+      "number": 0,
+      "title": "SON BÖLÜM — ASIL MUTLULUK",
+      "gallery": "assets/images/epilogue.webp",
+      "opening": null,
+      "inserts": [
+        "assets/images/epilogue.webp"
+      ],
+      "discoveries": [
+        "krallik",
+        "huzur"
+      ]
+    }
+  ],
+  "music": [
+    {
+      "id": "ay-sisi",
+      "ad": "Ay Sisi",
+      "dosya": "ay-sisi.mp3",
+      "duration": 32,
+      "format": "mp3",
+      "sira": 1,
+      "artist": "Özgün ambient beste"
+    }
+  ],
+  "sounds": [
+    {
+      "id": "sayfa.wav",
+      "src": "assets/sounds/sayfa.wav",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "audio",
+      "sha256": "2adf7c997976d5aeaff4d70cb52cf34cb4db0493822ffa66cdeb31288643f242"
+    }
+  ],
+  "atlas": {
+    "src": "assets/images/atlas.webp",
+    "width": 1200,
+    "height": 800,
+    "schematic": true,
+    "note": "Anlatıdan doğrulanan mekânlar. İşaretlerin konumu temsili bir keşif düzenidir.",
+    "hierarchy": {
+      "vadi": {
+        "fact": "vadi",
+        "kind": "region",
+        "title": "Kül Vadisi",
+        "src": "assets/images/chapter-04.webp",
+        "quote": "Kül Vadisi'nden gelen, hiçbir soylu aile tarafından kabul edilmeyen bir hayvansı.",
+        "sourceStart": 4628,
+        "sourceEnd": 4709,
+        "sourceChapter": 1,
+        "unlock": 4709,
+        "children": [
+          {
+            "node": "koy",
+            "x": 64,
+            "y": 54,
+            "quote": "Eski taş evler, dar yollar ve kurumuş ağaçlar vardı. İnsanlar yoksuldu ama birbirlerini tanıyorlardı.",
+            "sourceChapter": 3,
+            "sourceStart": 10480,
+            "sourceEnd": 10581,
+            "unlock": 10581
+          },
+          {
+            "node": "maden",
+            "x": 64,
+            "y": 54,
+            "quote": "O gece Arin, köy halkını eski maden tünellerine yönlendirdi.",
+            "sourceChapter": 9,
+            "sourceStart": 30174,
+            "sourceEnd": 30234,
+            "unlock": 30234
+          }
+        ]
+      },
+      "koy": {
+        "fact": "koy",
+        "kind": "settlement",
+        "title": "Kül Vadisi Köyü",
+        "src": "assets/images/chapter-04.webp",
+        "quote": "Eski taş evler, dar yollar ve kurumuş ağaçlar vardı. İnsanlar yoksuldu ama birbirlerini tanıyorlardı.",
+        "sourceStart": 10480,
+        "sourceEnd": 10581,
+        "sourceChapter": 3,
+        "unlock": 10581,
+        "children": [
+          {
+            "node": "ev",
+            "x": 64,
+            "y": 54,
+            "quote": "Bir şömine, küçük bir mutfak ve iki odadan oluşan mütevazı bir evdi.",
+            "sourceChapter": 3,
+            "sourceStart": 10681,
+            "sourceEnd": 10749,
+            "unlock": 10749
+          }
+        ],
+        "parent": "vadi"
+      },
+      "ev": {
+        "fact": "ev",
+        "kind": "landmark",
+        "title": "Küçük Taş Ev",
+        "src": "assets/images/chapter-04.webp",
+        "quote": "Bir şömine, küçük bir mutfak ve iki odadan oluşan mütevazı bir evdi.",
+        "sourceStart": 10681,
+        "sourceEnd": 10749,
+        "sourceChapter": 3,
+        "unlock": 10749,
+        "children": [],
+        "parent": "koy"
+      },
+      "dag": {
+        "fact": "dag",
+        "kind": "nature",
+        "title": "Ejderha Dağı",
+        "src": "assets/images/chapter-09.webp",
+        "quote": "Uzaklarda, Ejderha Dağı'nın en derin mağarasında üç bin yıldır uyuyan devasa bir yaratık gözlerini açtı.",
+        "sourceStart": 9242,
+        "sourceEnd": 9346,
+        "sourceChapter": 2,
+        "unlock": 9346,
+        "children": [
+          {
+            "node": "magara",
+            "x": 64,
+            "y": 54,
+            "quote": "Saatler sonra eski bir mağaraya ulaştı.",
+            "sourceChapter": 8,
+            "sourceStart": 24473,
+            "sourceEnd": 24512,
+            "unlock": 24512
+          }
+        ]
+      },
+      "magara": {
+        "fact": "magara",
+        "kind": "landmark",
+        "title": "Dağ Mağarası",
+        "src": "assets/images/chapter-09.webp",
+        "quote": "Saatler sonra eski bir mağaraya ulaştı.",
+        "sourceStart": 24473,
+        "sourceEnd": 24512,
+        "sourceChapter": 8,
+        "unlock": 24512,
+        "children": [],
+        "parent": "dag"
+      },
+      "sarayi": {
+        "fact": "sarayi",
+        "kind": "landmark",
+        "title": "Güneş Sarayı",
+        "src": "assets/images/chapter-06.webp",
+        "quote": "Ziyafet gecesi Güneş Sarayı altın ışıklarla süslenmişti.",
+        "sourceStart": 15784,
+        "sourceEnd": 15840,
+        "sourceChapter": 5,
+        "unlock": 15840,
+        "children": [
+          {
+            "node": "kutuphane",
+            "x": 64,
+            "y": 54,
+            "quote": "Selen bir gece sarayın yasak kütüphanesine girdi.",
+            "sourceChapter": 7,
+            "sourceStart": 22238,
+            "sourceEnd": 22287,
+            "unlock": 22287
+          }
+        ]
+      },
+      "kutuphane": {
+        "fact": "kutuphane",
+        "kind": "landmark",
+        "title": "Yasak Kütüphane",
+        "src": "assets/images/chapter-08.webp",
+        "quote": "Selen bir gece sarayın yasak kütüphanesine girdi.",
+        "sourceStart": 22238,
+        "sourceEnd": 22287,
+        "sourceChapter": 7,
+        "unlock": 22287,
+        "children": [],
+        "parent": "sarayi"
+      },
+      "maden": {
+        "fact": "maden",
+        "kind": "landmark",
+        "title": "Eski Maden Tünelleri",
+        "src": "assets/images/chapter-10.webp",
+        "quote": "O gece Arin, köy halkını eski maden tünellerine yönlendirdi.",
+        "sourceStart": 30174,
+        "sourceEnd": 30234,
+        "sourceChapter": 9,
+        "unlock": 30234,
+        "children": [],
+        "parent": "vadi"
+      },
+      "meydan": {
+        "fact": "meydan",
+        "kind": "settlement",
+        "title": "Eş Seçimi Meydanı",
+        "src": "assets/images/chapter-03.webp",
+        "quote": "Tören alanındaki bütün gözler Arin'e çevrildi.",
+        "sourceStart": 6236,
+        "sourceEnd": 6282,
+        "sourceChapter": 2,
+        "unlock": 6282,
+        "children": []
+      },
+      "krallik": {
+        "fact": "krallik",
+        "kind": "region",
+        "title": "Ejderha Krallığı",
+        "src": "assets/images/chapter-12.webp",
+        "quote": "Ejderha Krallığı eskisinden daha güçlüydü.",
+        "sourceStart": 39743,
+        "sourceEnd": 39785,
+        "sourceChapter": 12,
+        "unlock": 39785,
+        "children": []
+      }
+    },
+    "routes": [
+      {
+        "id": "meydan-to-vadi",
+        "from": "meydan",
+        "to": "vadi",
+        "label": "Eş Seçimi Meydanı · Kül Vadisi",
+        "quote": "Bir şömine, küçük bir mutfak ve iki odadan oluşan mütevazı bir evdi.",
+        "sourceStart": 10681,
+        "sourceEnd": 10749,
+        "unlock": 10749,
+        "sourceChapter": 3
+      },
+      {
+        "id": "vadi-to-sarayi",
+        "from": "vadi",
+        "to": "sarayi",
+        "label": "Kül Vadisi · Güneş Sarayı",
+        "quote": "Üzerinde sade, koyu mavi bir elbise vardı.",
+        "sourceStart": 16066,
+        "sourceEnd": 16108,
+        "unlock": 16108,
+        "sourceChapter": 5
+      },
+      {
+        "id": "vadi-to-dag",
+        "from": "vadi",
+        "to": "dag",
+        "label": "Kül Vadisi · Ejderha Dağı",
+        "quote": "Saatler sonra eski bir mağaraya ulaştı.",
+        "sourceStart": 24473,
+        "sourceEnd": 24512,
+        "unlock": 24512,
+        "sourceChapter": 8
+      }
+    ],
+    "temporal": {},
+    "riders": [],
+    "regions": [
+      {
+        "id": "vadi",
+        "name": "Kül Vadisi",
+        "motif": "Kül Vadisi",
+        "quote": "Kül Vadisi'nden gelen, hiçbir soylu aile tarafından kabul edilmeyen bir hayvansı.",
+        "sourceStart": 4628,
+        "sourceEnd": 4709,
+        "sourceChapter": 1,
+        "unlock": 4709
+      },
+      {
+        "id": "krallik",
+        "name": "Ejderha Krallığı",
+        "motif": "Ejderha Krallığı",
+        "quote": "Ejderha Krallığı eskisinden daha güçlüydü.",
+        "sourceStart": 39743,
+        "sourceEnd": 39785,
+        "sourceChapter": 12,
+        "unlock": 39785
+      }
+    ]
+  },
+  "visuals": {
+    "vadi": {
+      "src": "assets/images/chapter-04.webp",
+      "type": "illustration",
+      "scene": "chapter-04",
+      "unlock": 4709
+    },
+    "koy": {
+      "src": "assets/images/chapter-04.webp",
+      "type": "illustration",
+      "scene": "chapter-04",
+      "unlock": 10581
+    },
+    "ev": {
+      "src": "assets/images/chapter-04.webp",
+      "type": "illustration",
+      "scene": "chapter-04",
+      "unlock": 10749
+    },
+    "dag": {
+      "src": "assets/images/chapter-09.webp",
+      "type": "illustration",
+      "scene": "chapter-09",
+      "unlock": 9346
+    },
+    "magara": {
+      "src": "assets/images/chapter-09.webp",
+      "type": "illustration",
+      "scene": "chapter-09",
+      "unlock": 24512
+    },
+    "sarayi": {
+      "src": "assets/images/chapter-06.webp",
+      "type": "illustration",
+      "scene": "chapter-06",
+      "unlock": 15840
+    },
+    "kutuphane": {
+      "src": "assets/images/chapter-08.webp",
+      "type": "illustration",
+      "scene": "chapter-08",
+      "unlock": 22287
+    },
+    "maden": {
+      "src": "assets/images/chapter-10.webp",
+      "type": "illustration",
+      "scene": "chapter-10",
+      "unlock": 30234
+    },
+    "meydan": {
+      "src": "assets/images/chapter-03.webp",
+      "type": "illustration",
+      "scene": "chapter-03",
+      "unlock": 6282
+    },
+    "krallik": {
+      "src": "assets/images/chapter-12.webp",
+      "type": "illustration",
+      "scene": "chapter-12",
+      "unlock": 39785
+    },
+    "arin": {
+      "src": "assets/images/arin.webp",
+      "type": "portrait",
+      "unlock": 282
+    },
+    "selen": {
+      "src": "assets/images/selen.webp",
+      "type": "portrait",
+      "unlock": 551
+    },
+    "korvan": {
+      "src": "assets/images/korvan.webp",
+      "type": "portrait",
+      "unlock": 373
+    },
+    "aren": {
+      "src": "assets/images/aren.webp",
+      "type": "portrait",
+      "unlock": 4626
+    }
+  },
+  "locations": {
+    "vadi": {
+      "name": "Kül Vadisi",
+      "src": "assets/images/chapter-04.webp",
+      "areas": [
+        {
+          "id": "navigate-koy",
+          "node": "koy",
+          "kind": "city",
+          "name": "Kül Vadisi Köyü",
+          "label": "Kül Vadisi Köyü",
+          "x": 64,
+          "y": 54,
+          "src": "assets/images/chapter-04.webp",
+          "memorySrc": "assets/images/chapter-04.webp",
+          "quote": "Eski taş evler, dar yollar ve kurumuş ağaçlar vardı. İnsanlar yoksuldu ama birbirlerini tanıyorlardı.",
+          "sourceStart": 10480,
+          "sourceEnd": 10581,
+          "unlock": 10581,
+          "characters": []
+        },
+        {
+          "id": "navigate-maden",
+          "node": "maden",
+          "kind": "city",
+          "name": "Eski Maden Tünelleri",
+          "label": "Eski Maden Tünelleri",
+          "x": 64,
+          "y": 54,
+          "src": "assets/images/chapter-10.webp",
+          "memorySrc": "assets/images/chapter-10.webp",
+          "quote": "O gece Arin, köy halkını eski maden tünellerine yönlendirdi.",
+          "sourceStart": 30174,
+          "sourceEnd": 30234,
+          "unlock": 30234,
+          "characters": []
+        }
+      ]
+    },
+    "koy": {
+      "name": "Kül Vadisi Köyü",
+      "src": "assets/images/chapter-04.webp",
+      "areas": [
+        {
+          "id": "chapter-05",
+          "name": "BÖLÜM 5 — EJDERHANIN İLK İŞARETİ",
+          "label": "EJDERHANIN İLK İŞARETİ",
+          "quote": "Boynuzları siyah, gözleri kıpkırmızıydı. Ağzından zehirli dumanlar yükseliyordu.",
+          "sourceChapter": 4,
+          "src": "assets/images/chapter-05.webp",
+          "memorySrc": "assets/images/chapter-05.webp",
+          "x": 33,
+          "y": 37,
+          "sourceStart": 13905,
+          "sourceEnd": 13985,
+          "unlock": 13985,
+          "chapter": {
+            "id": "chapter-05",
+            "number": 5,
+            "sourceChapter": 4,
+            "title": "BÖLÜM 5 — EJDERHANIN İLK İŞARETİ",
+            "offset": 12990
+          },
+          "characters": [],
+          "discoveries": []
+        },
+        {
+          "id": "navigate-ev",
+          "node": "ev",
+          "kind": "city",
+          "name": "Küçük Taş Ev",
+          "label": "Küçük Taş Ev",
+          "x": 64,
+          "y": 54,
+          "src": "assets/images/chapter-04.webp",
+          "memorySrc": "assets/images/chapter-04.webp",
+          "quote": "Bir şömine, küçük bir mutfak ve iki odadan oluşan mütevazı bir evdi.",
+          "sourceStart": 10681,
+          "sourceEnd": 10749,
+          "unlock": 10749,
+          "characters": []
+        }
+      ]
+    },
+    "ev": {
+      "name": "Küçük Taş Ev",
+      "src": "assets/images/chapter-04.webp",
+      "areas": [
+        {
+          "id": "chapter-04",
+          "name": "BÖLÜM 4 — KÜL VADİSİ'NDEKİ YENİ HAYAT",
+          "label": "KÜL VADİSİ'NDEKİ YENİ HAYAT",
+          "quote": "Bir şömine, küçük bir mutfak ve iki odadan oluşan mütevazı bir evdi.",
+          "sourceChapter": 3,
+          "src": "assets/images/chapter-04.webp",
+          "memorySrc": "assets/images/chapter-04.webp",
+          "x": 33,
+          "y": 37,
+          "sourceStart": 10681,
+          "sourceEnd": 10749,
+          "unlock": 10749,
+          "chapter": {
+            "id": "chapter-04",
+            "number": 4,
+            "sourceChapter": 3,
+            "title": "BÖLÜM 4 — KÜL VADİSİ'NDEKİ YENİ HAYAT",
+            "offset": 9401
+          },
+          "characters": [],
+          "discoveries": []
+        },
+        {
+          "id": "chapter-07",
+          "name": "BÖLÜM 7 — KALPLERİN YAKINLAŞMASI",
+          "label": "KALPLERİN YAKINLAŞMASI",
+          "quote": "Yüzüğün üzerinde altın renkli küçük bir ejderha işlenmişti.",
+          "sourceChapter": 6,
+          "src": "assets/images/chapter-07.webp",
+          "memorySrc": "assets/images/chapter-07.webp",
+          "x": 53,
+          "y": 37,
+          "sourceStart": 20024,
+          "sourceEnd": 20083,
+          "unlock": 20083,
+          "chapter": {
+            "id": "chapter-07",
+            "number": 7,
+            "sourceChapter": 6,
+            "title": "BÖLÜM 7 — KALPLERİN YAKINLAŞMASI",
+            "offset": 18839
+          },
+          "characters": [],
+          "discoveries": []
+        },
+        {
+          "id": "epilogue",
+          "name": "SON BÖLÜM — ASIL MUTLULUK",
+          "label": "SON BÖLÜM — ASIL MUTLULUK",
+          "quote": "Bir gün, güneş batarken küçük taş evlerinin önünde oturuyorlardı.",
+          "sourceChapter": 12,
+          "src": "assets/images/epilogue.webp",
+          "memorySrc": "assets/images/epilogue.webp",
+          "x": 73,
+          "y": 37,
+          "sourceStart": 40013,
+          "sourceEnd": 40078,
+          "unlock": 40078,
+          "chapter": {
+            "id": "epilogue",
+            "number": 0,
+            "sourceChapter": 12,
+            "title": "SON BÖLÜM — ASIL MUTLULUK",
+            "offset": 39668
+          },
+          "characters": [],
+          "discoveries": []
+        }
+      ]
+    },
+    "dag": {
+      "name": "Ejderha Dağı",
+      "src": "assets/images/chapter-09.webp",
+      "areas": [
+        {
+          "id": "navigate-magara",
+          "node": "magara",
+          "kind": "city",
+          "name": "Dağ Mağarası",
+          "label": "Dağ Mağarası",
+          "x": 64,
+          "y": 54,
+          "src": "assets/images/chapter-09.webp",
+          "memorySrc": "assets/images/chapter-09.webp",
+          "quote": "Saatler sonra eski bir mağaraya ulaştı.",
+          "sourceStart": 24473,
+          "sourceEnd": 24512,
+          "unlock": 24512,
+          "characters": []
+        }
+      ]
+    },
+    "magara": {
+      "name": "Dağ Mağarası",
+      "src": "assets/images/chapter-09.webp",
+      "areas": [
+        {
+          "id": "chapter-09",
+          "name": "BÖLÜM 9 — EJDERHA KRALI'NIN GERÇEK KİMLİĞİ",
+          "label": "EJDERHA KRALI'NIN GERÇEK KİMLİĞİ",
+          "quote": "Saatler sonra eski bir mağaraya ulaştı.",
+          "sourceChapter": 8,
+          "src": "assets/images/chapter-09.webp",
+          "memorySrc": "assets/images/chapter-09.webp",
+          "x": 33,
+          "y": 37,
+          "sourceStart": 24473,
+          "sourceEnd": 24512,
+          "unlock": 24512,
+          "chapter": {
+            "id": "chapter-09",
+            "number": 9,
+            "sourceChapter": 8,
+            "title": "BÖLÜM 9 — EJDERHA KRALI'NIN GERÇEK KİMLİĞİ",
+            "offset": 23988
+          },
+          "characters": [],
+          "discoveries": []
+        }
+      ]
+    },
+    "sarayi": {
+      "name": "Güneş Sarayı",
+      "src": "assets/images/chapter-06.webp",
+      "areas": [
+        {
+          "id": "chapter-01",
+          "name": "BÖLÜM 1 — İHANETLE BİTEN HAYAT",
+          "label": "İHANETLE BİTEN HAYAT",
+          "quote": "Altın işlemeli elbisesi yırtılmış, bilekleri zincirlenmişti. Gözlerinin önünde ise bütün hayatını birlikte geçirdiği iki kişi duruyordu.",
+          "sourceChapter": 0,
+          "src": "assets/images/chapter-01.webp",
+          "memorySrc": "assets/images/chapter-01.webp",
+          "x": 33,
+          "y": 37,
+          "sourceStart": 375,
+          "sourceEnd": 511,
+          "unlock": 15840,
+          "chapter": {
+            "id": "chapter-01",
+            "number": 1,
+            "sourceChapter": 0,
+            "title": "BÖLÜM 1 — İHANETLE BİTEN HAYAT",
+            "offset": 62
+          },
+          "characters": [],
+          "discoveries": []
+        },
+        {
+          "id": "chapter-06",
+          "name": "BÖLÜM 6 — ASLAN KRALI'NIN ZİYAFETİ",
+          "label": "ASLAN KRALI'NIN ZİYAFETİ",
+          "quote": "Üzerinde sade, koyu mavi bir elbise vardı.",
+          "sourceChapter": 5,
+          "src": "assets/images/chapter-06.webp",
+          "memorySrc": "assets/images/chapter-06.webp",
+          "x": 53,
+          "y": 37,
+          "sourceStart": 16066,
+          "sourceEnd": 16108,
+          "unlock": 16108,
+          "chapter": {
+            "id": "chapter-06",
+            "number": 6,
+            "sourceChapter": 5,
+            "title": "BÖLÜM 6 — ASLAN KRALI'NIN ZİYAFETİ",
+            "offset": 15344
+          },
+          "characters": [],
+          "discoveries": []
+        },
+        {
+          "id": "chapter-11",
+          "name": "BÖLÜM 11 — GERÇEK EJDERHA KRALI",
+          "label": "GERÇEK EJDERHA KRALI",
+          "quote": "Ve bir anda gökyüzünü kaplayan devasa bir siyah ejderhaya dönüştü.",
+          "sourceChapter": 10,
+          "src": "assets/images/chapter-11.webp",
+          "memorySrc": "assets/images/chapter-11.webp",
+          "x": 73,
+          "y": 37,
+          "sourceStart": 34285,
+          "sourceEnd": 34351,
+          "unlock": 34351,
+          "chapter": {
+            "id": "chapter-11",
+            "number": 11,
+            "sourceChapter": 10,
+            "title": "BÖLÜM 11 — GERÇEK EJDERHA KRALI",
+            "offset": 31787
+          },
+          "characters": [],
+          "discoveries": []
+        },
+        {
+          "id": "navigate-kutuphane",
+          "node": "kutuphane",
+          "kind": "city",
+          "name": "Yasak Kütüphane",
+          "label": "Yasak Kütüphane",
+          "x": 64,
+          "y": 54,
+          "src": "assets/images/chapter-08.webp",
+          "memorySrc": "assets/images/chapter-08.webp",
+          "quote": "Selen bir gece sarayın yasak kütüphanesine girdi.",
+          "sourceStart": 22238,
+          "sourceEnd": 22287,
+          "unlock": 22287,
+          "characters": []
+        }
+      ]
+    },
+    "kutuphane": {
+      "name": "Yasak Kütüphane",
+      "src": "assets/images/chapter-08.webp",
+      "areas": [
+        {
+          "id": "chapter-08",
+          "name": "BÖLÜM 8 — KARANLIKTAKİ PLAN",
+          "label": "KARANLIKTAKİ PLAN",
+          "quote": "Selen bir gece sarayın yasak kütüphanesine girdi.",
+          "sourceChapter": 7,
+          "src": "assets/images/chapter-08.webp",
+          "memorySrc": "assets/images/chapter-08.webp",
+          "x": 33,
+          "y": 37,
+          "sourceStart": 22238,
+          "sourceEnd": 22287,
+          "unlock": 22287,
+          "chapter": {
+            "id": "chapter-08",
+            "number": 8,
+            "sourceChapter": 7,
+            "title": "BÖLÜM 8 — KARANLIKTAKİ PLAN",
+            "offset": 21534
+          },
+          "characters": [],
+          "discoveries": []
+        }
+      ]
+    },
+    "maden": {
+      "name": "Eski Maden Tünelleri",
+      "src": "assets/images/chapter-10.webp",
+      "areas": [
+        {
+          "id": "chapter-10",
+          "name": "BÖLÜM 10 — KARANLIK MÜHRÜN UYANIŞI",
+          "label": "KARANLIK MÜHRÜN UYANIŞI",
+          "quote": "O gece Arin, köy halkını eski maden tünellerine yönlendirdi.",
+          "sourceChapter": 9,
+          "src": "assets/images/chapter-10.webp",
+          "memorySrc": "assets/images/chapter-10.webp",
+          "x": 33,
+          "y": 37,
+          "sourceStart": 30174,
+          "sourceEnd": 30234,
+          "unlock": 30234,
+          "chapter": {
+            "id": "chapter-10",
+            "number": 10,
+            "sourceChapter": 9,
+            "title": "BÖLÜM 10 — KARANLIK MÜHRÜN UYANIŞI",
+            "offset": 28436
+          },
+          "characters": [],
+          "discoveries": []
+        }
+      ]
+    },
+    "meydan": {
+      "name": "Eş Seçimi Meydanı",
+      "src": "assets/images/chapter-03.webp",
+      "areas": [
+        {
+          "id": "chapter-02",
+          "name": "BÖLÜM 2 — İKİNCİ HAYATIN İLK GÜNÜ",
+          "label": "İKİNCİ HAYATIN İLK GÜNÜ",
+          "quote": "Sarayın soğuk taşları yerine, çocukluğunda uyuduğu yumuşak yataktaydı.",
+          "sourceChapter": 1,
+          "src": "assets/images/chapter-02.webp",
+          "memorySrc": "assets/images/chapter-02.webp",
+          "x": 33,
+          "y": 37,
+          "sourceStart": 2827,
+          "sourceEnd": 2897,
+          "unlock": 6282,
+          "chapter": {
+            "id": "chapter-02",
+            "number": 2,
+            "sourceChapter": 1,
+            "title": "BÖLÜM 2 — İKİNCİ HAYATIN İLK GÜNÜ",
+            "offset": 2629
+          },
+          "characters": [],
+          "discoveries": []
+        },
+        {
+          "id": "chapter-03",
+          "name": "BÖLÜM 3 — HERKESİN REDDETTİĞİ EŞ",
+          "label": "HERKESİN REDDETTİĞİ EŞ",
+          "quote": "Sonunda Aren'in önünde durdu.",
+          "sourceChapter": 2,
+          "src": "assets/images/chapter-03.webp",
+          "memorySrc": "assets/images/chapter-03.webp",
+          "x": 53,
+          "y": 37,
+          "sourceStart": 6721,
+          "sourceEnd": 6750,
+          "unlock": 6750,
+          "chapter": {
+            "id": "chapter-03",
+            "number": 3,
+            "sourceChapter": 2,
+            "title": "BÖLÜM 3 — HERKESİN REDDETTİĞİ EŞ",
+            "offset": 6203
+          },
+          "characters": [],
+          "discoveries": []
+        }
+      ]
+    },
+    "krallik": {
+      "name": "Ejderha Krallığı",
+      "src": "assets/images/chapter-12.webp",
+      "areas": [
+        {
+          "id": "chapter-12",
+          "name": "BÖLÜM 12 — EJDERHA KRALİÇESİ",
+          "label": "EJDERHA KRALİÇESİ",
+          "quote": "Ve birlikte tahtlarına yürüdüler.",
+          "sourceChapter": 11,
+          "src": "assets/images/chapter-12.webp",
+          "memorySrc": "assets/images/chapter-12.webp",
+          "x": 33,
+          "y": 37,
+          "sourceStart": 39633,
+          "sourceEnd": 39666,
+          "unlock": 39785,
+          "chapter": {
+            "id": "chapter-12",
+            "number": 12,
+            "sourceChapter": 11,
+            "title": "BÖLÜM 12 — EJDERHA KRALİÇESİ",
+            "offset": 35794
+          },
+          "characters": [],
+          "discoveries": []
+        }
+      ]
+    }
+  }
+}

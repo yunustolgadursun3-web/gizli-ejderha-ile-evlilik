@@ -1,0 +1,425 @@
+{
+  "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+  "title": "GİZLİ EJDERHA İLE EVLİLİK",
+  "subtitle": "Küllerin Altındaki Taç",
+  "author": "",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "number": 1,
+      "art": "chapter-01",
+      "phrase": "Altın işlemeli elbisesi yırtılmış, bilekleri zincirlenmişti. Gözlerinin önünde ise bütün hayatını birlikte geçirdiği iki kişi duruyordu.",
+      "place": "sarayi",
+      "mood": "gizem",
+      "volume": 1
+    },
+    {
+      "id": "chapter-02",
+      "number": 2,
+      "art": "chapter-02",
+      "phrase": "Sarayın soğuk taşları yerine, çocukluğunda uyuduğu yumuşak yataktaydı.",
+      "place": "meydan",
+      "mood": "gizem",
+      "volume": 1
+    },
+    {
+      "id": "chapter-03",
+      "number": 3,
+      "art": "chapter-03",
+      "phrase": "Sonunda Aren'in önünde durdu.",
+      "place": "meydan",
+      "mood": "gizem",
+      "volume": 1
+    },
+    {
+      "id": "chapter-04",
+      "number": 4,
+      "art": "chapter-04",
+      "phrase": "Bir şömine, küçük bir mutfak ve iki odadan oluşan mütevazı bir evdi.",
+      "place": "ev",
+      "mood": "gizem",
+      "volume": 1
+    },
+    {
+      "id": "chapter-05",
+      "number": 5,
+      "art": "chapter-05",
+      "phrase": "Boynuzları siyah, gözleri kıpkırmızıydı. Ağzından zehirli dumanlar yükseliyordu.",
+      "place": "koy",
+      "mood": "gizem",
+      "volume": 1
+    },
+    {
+      "id": "chapter-06",
+      "number": 6,
+      "art": "chapter-06",
+      "phrase": "Üzerinde sade, koyu mavi bir elbise vardı.",
+      "place": "sarayi",
+      "mood": "gizem",
+      "volume": 1
+    },
+    {
+      "id": "chapter-07",
+      "number": 7,
+      "art": "chapter-07",
+      "phrase": "Yüzüğün üzerinde altın renkli küçük bir ejderha işlenmişti.",
+      "place": "ev",
+      "mood": "gizem",
+      "volume": 1
+    },
+    {
+      "id": "chapter-08",
+      "number": 8,
+      "art": "chapter-08",
+      "phrase": "Selen bir gece sarayın yasak kütüphanesine girdi.",
+      "place": "kutuphane",
+      "mood": "gizem",
+      "volume": 1
+    },
+    {
+      "id": "chapter-09",
+      "number": 9,
+      "art": "chapter-09",
+      "phrase": "Saatler sonra eski bir mağaraya ulaştı.",
+      "place": "magara",
+      "mood": "gizem",
+      "volume": 1
+    },
+    {
+      "id": "chapter-10",
+      "number": 10,
+      "art": "chapter-10",
+      "phrase": "O gece Arin, köy halkını eski maden tünellerine yönlendirdi.",
+      "place": "maden",
+      "mood": "umut",
+      "volume": 1
+    },
+    {
+      "id": "chapter-11",
+      "number": 11,
+      "art": "chapter-11",
+      "phrase": "Ve bir anda gökyüzünü kaplayan devasa bir siyah ejderhaya dönüştü.",
+      "place": "sarayi",
+      "mood": "umut",
+      "volume": 1
+    },
+    {
+      "id": "chapter-12",
+      "number": 12,
+      "art": "chapter-12",
+      "phrase": "Ve birlikte tahtlarına yürüdüler.",
+      "place": "krallik",
+      "mood": "umut",
+      "volume": 1
+    },
+    {
+      "id": "epilogue",
+      "number": 0,
+      "art": "epilogue",
+      "phrase": "Bir gün, güneş batarken küçük taş evlerinin önünde oturuyorlardı.",
+      "place": "ev",
+      "mood": "umut",
+      "volume": 1
+    }
+  ],
+  "facts": [
+    {
+      "id": "vadi",
+      "kind": "places",
+      "name": "Kül Vadisi",
+      "chapter": 2,
+      "phrase": "Kül Vadisi'nden gelen, hiçbir soylu aile tarafından kabul edilmeyen bir hayvansı.",
+      "art": "chapter-04",
+      "x": 51,
+      "y": 56,
+      "mapKind": "region"
+    },
+    {
+      "id": "koy",
+      "kind": "places",
+      "name": "Kül Vadisi Köyü",
+      "chapter": 4,
+      "phrase": "Eski taş evler, dar yollar ve kurumuş ağaçlar vardı. İnsanlar yoksuldu ama birbirlerini tanıyorlardı.",
+      "art": "chapter-04",
+      "x": 53,
+      "y": 65,
+      "mapKind": "settlement"
+    },
+    {
+      "id": "ev",
+      "kind": "places",
+      "name": "Küçük Taş Ev",
+      "chapter": 4,
+      "phrase": "Bir şömine, küçük bir mutfak ve iki odadan oluşan mütevazı bir evdi.",
+      "art": "chapter-04",
+      "x": 66,
+      "y": 68,
+      "mapKind": "landmark"
+    },
+    {
+      "id": "dag",
+      "kind": "places",
+      "name": "Ejderha Dağı",
+      "chapter": 3,
+      "phrase": "Uzaklarda, Ejderha Dağı'nın en derin mağarasında üç bin yıldır uyuyan devasa bir yaratık gözlerini açtı.",
+      "art": "chapter-09",
+      "x": 34,
+      "y": 18,
+      "mapKind": "nature"
+    },
+    {
+      "id": "magara",
+      "kind": "places",
+      "name": "Dağ Mağarası",
+      "chapter": 9,
+      "phrase": "Saatler sonra eski bir mağaraya ulaştı.",
+      "art": "chapter-09",
+      "x": 49,
+      "y": 23,
+      "mapKind": "landmark"
+    },
+    {
+      "id": "sarayi",
+      "kind": "places",
+      "name": "Güneş Sarayı",
+      "chapter": 6,
+      "phrase": "Ziyafet gecesi Güneş Sarayı altın ışıklarla süslenmişti.",
+      "art": "chapter-06",
+      "x": 85,
+      "y": 18,
+      "mapKind": "landmark"
+    },
+    {
+      "id": "kutuphane",
+      "kind": "places",
+      "name": "Yasak Kütüphane",
+      "chapter": 8,
+      "phrase": "Selen bir gece sarayın yasak kütüphanesine girdi.",
+      "art": "chapter-08",
+      "x": 80,
+      "y": 23,
+      "mapKind": "landmark"
+    },
+    {
+      "id": "maden",
+      "kind": "places",
+      "name": "Eski Maden Tünelleri",
+      "chapter": 10,
+      "phrase": "O gece Arin, köy halkını eski maden tünellerine yönlendirdi.",
+      "art": "chapter-10",
+      "x": 90,
+      "y": 56,
+      "mapKind": "landmark"
+    },
+    {
+      "id": "meydan",
+      "kind": "places",
+      "name": "Eş Seçimi Meydanı",
+      "chapter": 3,
+      "phrase": "Tören alanındaki bütün gözler Arin'e çevrildi.",
+      "art": "chapter-03",
+      "x": 58,
+      "y": 72,
+      "mapKind": "settlement"
+    },
+    {
+      "id": "krallik",
+      "kind": "places",
+      "name": "Ejderha Krallığı",
+      "chapter": -2,
+      "phrase": "Ejderha Krallığı eskisinden daha güçlüydü.",
+      "art": "chapter-12",
+      "x": 42,
+      "y": 20,
+      "mapKind": "region"
+    },
+    {
+      "id": "arin",
+      "kind": "characters",
+      "name": "Arin",
+      "chapter": 1,
+      "phrase": "Adı Arin'di.",
+      "art": "arin",
+      "description": "Şifacılık öğrenmiş, başkalarına yardım eden genç kadın."
+    },
+    {
+      "id": "selen",
+      "kind": "characters",
+      "name": "Selen",
+      "chapter": 1,
+      "phrase": "Kocası Korvan ve öz kız kardeşi Selen.",
+      "art": "selen",
+      "description": "Arin’in kız kardeşi."
+    },
+    {
+      "id": "korvan",
+      "kind": "characters",
+      "name": "Korvan",
+      "chapter": 1,
+      "phrase": "Bir zamanlar Aslan Kral Korvan'ın eşi olmakla gurur duyan Arin, şimdi ölümünü bekliyordu.",
+      "art": "korvan",
+      "description": "Aslan Kralı."
+    },
+    {
+      "id": "aren",
+      "kind": "characters",
+      "name": "Aren",
+      "chapter": 2,
+      "phrase": "Adı Aren'di.",
+      "art": "aren",
+      "description": "Kül Vadisi’nden gelen sessiz adam."
+    },
+    {
+      "id": "arin-aren",
+      "kind": "connections",
+      "name": "Arin ve Aren",
+      "chapter": 4,
+      "phrase": "\"Artık senin eşinim.\"",
+      "from": "arin",
+      "to": "aren"
+    },
+    {
+      "id": "ihanet",
+      "kind": "events",
+      "name": "İhanet",
+      "chapter": 1,
+      "phrase": "Altın işlemeli elbisesi yırtılmış, bilekleri zincirlenmişti. Gözlerinin önünde ise bütün hayatını birlikte geçirdiği iki kişi duruyordu."
+    },
+    {
+      "id": "uyanis",
+      "kind": "events",
+      "name": "İkinci Hayat",
+      "chapter": 2,
+      "phrase": "Sarayın soğuk taşları yerine, çocukluğunda uyuduğu yumuşak yataktaydı."
+    },
+    {
+      "id": "secim",
+      "kind": "events",
+      "name": "Seçim",
+      "chapter": 3,
+      "phrase": "Sonunda Aren'in önünde durdu."
+    },
+    {
+      "id": "yeni-ev",
+      "kind": "events",
+      "name": "Kül Vadisi’nde Yeni Hayat",
+      "chapter": 4,
+      "phrase": "Bir şömine, küçük bir mutfak ve iki odadan oluşan mütevazı bir evdi."
+    },
+    {
+      "id": "isaret",
+      "kind": "events",
+      "name": "İlk İşaret",
+      "chapter": 5,
+      "phrase": "Boynuzları siyah, gözleri kıpkırmızıydı. Ağzından zehirli dumanlar yükseliyordu."
+    },
+    {
+      "id": "ziyafet",
+      "kind": "events",
+      "name": "Güneş Sarayı Ziyafeti",
+      "chapter": 6,
+      "phrase": "Ziyafet gecesi Güneş Sarayı altın ışıklarla süslenmişti."
+    },
+    {
+      "id": "yuzuk",
+      "kind": "events",
+      "name": "Ejderhalı Yüzük",
+      "chapter": 7,
+      "phrase": "Yüzüğün üzerinde altın renkli küçük bir ejderha işlenmişti."
+    },
+    {
+      "id": "sir",
+      "kind": "events",
+      "name": "Dağ Mağarasındaki Sır",
+      "chapter": 9,
+      "phrase": "Saatler sonra eski bir mağaraya ulaştı."
+    },
+    {
+      "id": "siginak",
+      "kind": "events",
+      "name": "Köylülerin Kurtuluşu",
+      "chapter": 10,
+      "phrase": "O gece Arin, köy halkını eski maden tünellerine yönlendirdi."
+    },
+    {
+      "id": "ejderha",
+      "kind": "events",
+      "name": "Ejderhanın Dönüşü",
+      "chapter": 11,
+      "phrase": "Ve bir anda gökyüzünü kaplayan devasa bir siyah ejderhaya dönüştü."
+    },
+    {
+      "id": "tac",
+      "kind": "events",
+      "name": "Taç Giyme",
+      "chapter": 12,
+      "phrase": "Ve birlikte tahtlarına yürüdüler."
+    },
+    {
+      "id": "huzur",
+      "kind": "events",
+      "name": "Bir Yıl Sonra",
+      "chapter": -2,
+      "phrase": "Bir gün, güneş batarken küçük taş evlerinin önünde oturuyorlardı."
+    }
+  ],
+  "art": {
+    "chapter-01": {
+      "alt": "BÖLÜM 1 — İHANETLE BİTEN HAYAT · Hikâye illüstrasyonu."
+    },
+    "chapter-02": {
+      "alt": "BÖLÜM 2 — İKİNCİ HAYATIN İLK GÜNÜ · Hikâye illüstrasyonu."
+    },
+    "chapter-03": {
+      "alt": "BÖLÜM 3 — HERKESİN REDDETTİĞİ EŞ · Hikâye illüstrasyonu."
+    },
+    "chapter-04": {
+      "alt": "BÖLÜM 4 — KÜL VADİSİ'NDEKİ YENİ HAYAT · Hikâye illüstrasyonu."
+    },
+    "chapter-05": {
+      "alt": "BÖLÜM 5 — EJDERHANIN İLK İŞARETİ · Hikâye illüstrasyonu."
+    },
+    "chapter-06": {
+      "alt": "BÖLÜM 6 — ASLAN KRALI'NIN ZİYAFETİ · Hikâye illüstrasyonu."
+    },
+    "chapter-07": {
+      "alt": "BÖLÜM 7 — KALPLERİN YAKINLAŞMASI · Hikâye illüstrasyonu."
+    },
+    "chapter-08": {
+      "alt": "BÖLÜM 8 — KARANLIKTAKİ PLAN · Hikâye illüstrasyonu."
+    },
+    "chapter-09": {
+      "alt": "BÖLÜM 9 — EJDERHA KRALI'NIN GERÇEK KİMLİĞİ · Hikâye illüstrasyonu."
+    },
+    "chapter-10": {
+      "alt": "BÖLÜM 10 — KARANLIK MÜHRÜN UYANIŞI · Hikâye illüstrasyonu."
+    },
+    "chapter-11": {
+      "alt": "BÖLÜM 11 — GERÇEK EJDERHA KRALI · Hikâye illüstrasyonu."
+    },
+    "chapter-12": {
+      "alt": "BÖLÜM 12 — EJDERHA KRALİÇESİ · Hikâye illüstrasyonu."
+    },
+    "epilogue": {
+      "alt": "SON BÖLÜM — ASIL MUTLULUK · Hikâye illüstrasyonu."
+    },
+    "arin": {
+      "alt": "Arin · Karakter portresi."
+    },
+    "selen": {
+      "alt": "Selen · Karakter portresi."
+    },
+    "korvan": {
+      "alt": "Korvan · Karakter portresi."
+    },
+    "aren": {
+      "alt": "Aren · Karakter portresi."
+    },
+    "cover": {
+      "alt": "Arin ve Aren Kül Vadisi’nde; uzakta ejderha dağı."
+    },
+    "atlas": {
+      "alt": "Kül Vadisi, Güneş Sarayı ve Ejderha Dağı’nın temsili keşif haritası."
+    }
+  }
+}
