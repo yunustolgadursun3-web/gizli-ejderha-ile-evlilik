@@ -478,6 +478,62 @@
       "sha256": "7bfdfb577dd48e51ec96a466978173429ce3efb619454a6d57144760950c8195"
     },
     {
+      "id": "muzik.mp3",
+      "src": "assets/music/muzik.mp3",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "audio",
+      "sha256": "fda8ce10cc32a522d1bd4d434e3525c2009bebfffbbe296cea2c18811c711d90"
+    },
+    {
+      "id": "muzik2.mp3",
+      "src": "assets/music/muzik2.mp3",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "audio",
+      "sha256": "d73e53d815f9d5535e8550d490240b2d268668b7a2f191f94d8022e00ba839cc"
+    },
+    {
+      "id": "muzik3.mp3",
+      "src": "assets/music/muzik3.mp3",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "audio",
+      "sha256": "b16a37363b811f21b954e3425a3c11325d5a4d968d4f70353c7057826d65dfe9"
+    },
+    {
+      "id": "muzik4.mp3",
+      "src": "assets/music/muzik4.mp3",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "audio",
+      "sha256": "f9419df6f0da911d7eb0be0a18d70881e85116085e8be855c1983d3e691964c1"
+    },
+    {
+      "id": "muzik5.mp3",
+      "src": "assets/music/muzik5.mp3",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "audio",
+      "sha256": "7aa46c9f762a1022bddf9d1a2e0eefb5ff56c41c61950dfdaf9e928e983f4277"
+    },
+    {
+      "id": "muzik6.mp3",
+      "src": "assets/music/muzik6.mp3",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "audio",
+      "sha256": "41c6aa06659b79329f41e6ab72b33a3edad55df32a8772348c9a74fc24969e30"
+    },
+    {
+      "id": "muzik7.mp3",
+      "src": "assets/music/muzik7.mp3",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "audio",
+      "sha256": "5488dfb7298337c09ca9aa7b0ec10322a32fad1dba9cda7cd827866a4286ddc8"
+    },
+    {
+      "id": "muzik8.mp3",
+      "src": "assets/music/muzik8.mp3",
+      "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
+      "type": "audio",
+      "sha256": "7f5d1e92f490d7605b90869188da1bd1f6b83ab3e01a8e90b798d6ff6fbe9b1f"
+    },
+    {
       "id": "sayfa.wav",
       "src": "assets/sounds/sayfa.wav",
       "storyId": "gizli-ejderha-ile-evlilik-kullerin-altindaki-tac",
@@ -679,6 +735,73 @@
       "format": "mp3",
       "sira": 1,
       "artist": "Özgün ambient beste"
+    },
+    {
+      "id": "muzik-1",
+      "ad": "Müzik 1",
+      "dosya": "muzik.mp3",
+      "duration": 270,
+      "format": "mp3",
+      "sira": 2
+    },
+    {
+      "id": "muzik-2",
+      "ad": "Müzik 2",
+      "dosya": "muzik2.mp3",
+      "duration": 270,
+      "format": "mp3",
+      "sira": 3
+    },
+    {
+      "id": "muzik-3",
+      "ad": "Tenebrous Brothers Carnival — Act One",
+      "dosya": "muzik3.mp3",
+      "duration": 237.42695,
+      "format": "mp3",
+      "sira": 4,
+      "artist": "Kevin MacLeod"
+    },
+    {
+      "id": "muzik-4",
+      "ad": "Müzik 4",
+      "dosya": "muzik4.mp3",
+      "duration": 208.274281,
+      "format": "mp3",
+      "sira": 5
+    },
+    {
+      "id": "muzik-5",
+      "ad": "Müzik 5",
+      "dosya": "muzik5.mp3",
+      "duration": 111.046531,
+      "format": "mp3",
+      "sira": 6
+    },
+    {
+      "id": "muzik-6",
+      "ad": "Müzik 6",
+      "dosya": "muzik6.mp3",
+      "duration": 195.984,
+      "format": "mp3",
+      "sira": 7
+    },
+    {
+      "id": "muzik-7",
+      "ad": "Army Dreamers",
+      "dosya": "muzik7.mp3",
+      "duration": 196.162177,
+      "format": "mp3",
+      "sira": 8,
+      "artist": "Kate Bush"
+    },
+    {
+      "id": "muzik-8",
+      "ad": "Golden Brown — Slowed Down Version",
+      "dosya": "muzik8.mp3",
+      "duration": 248.510113,
+      "format": "mp3",
+      "sira": 9,
+      "artist": "The Stranglers"
     }
   ],
   "sounds": [
